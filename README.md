@@ -14,9 +14,9 @@
 
 [![Rushabh's github stats](https://github-readme-stats.vercel.app/api?username=Rushabh2609&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Most Used Languages -->  
+<!-- Most Used Languages   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmhmubin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
-</p>  
+</p>  -->
 
 <!-- Connect with me -->  
 <h3 align="left">Connect with me:</h3>  
