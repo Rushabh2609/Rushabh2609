@@ -16,12 +16,11 @@
 
 <b>⚡Rushabh's github stats </b>
 <p>  
-<!-- GitHub Stats 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rushabh2609&show_icons=true&hide_border=true" />-->  
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<!-- Most Used Languages -->  
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rushabh2609&show_icons=true&hide_border=true&theme=dark" />  
+<!-- Most Used Languages   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushabh2609&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
-</p>  
+</p>  -->
 
 <!-- Connect with me -->  
 <h3 align="left">Connect with me:</h3>  
