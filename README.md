@@ -1,11 +1,11 @@
 <!-- welcome message 👋 --> 
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></h2> I'm Rushabh Shah
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0.5px"> I'm Rushabh Shah
  
 <h3>Cyber Security Enthusiatic!</h3>  
 
 <!-- retro visitor counter -->  
 <p align="center">   
-  <img src="https://profile-counter.glitch.me/{user-name}/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Rushabh2609/count.svg" />  
 </p>  
 <!--Here are some ideas to get you started:
 
@@ -22,13 +22,10 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
 
-<a href="https://twitter.com/rushabhshah5216" target="blank"><img align="center" logo=twitter alt="Rushabh2609" height="30" width="30" /></a>  
-<a href="https://www.linkedin.com/in/rushabh-shah-83907a1a0/" target="blank"><img align="center" logo=linkedin alt="Rushabh2609" height="30" width="30" /></a>  
-<a href="https://www.facebook.com/profile.php?id=100017719209852" target="blank"><img align="center" logo=facebook alt="Rushabh2609" height="30" width="30" /></a>  
-<a href="https://www.instagram.com/rushabh_shah1819/" target="blank"><img align="center" logo=instagram alt="Rushabh2609" height="30" width="30" /></a> 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rushabh-shah-83907a1a0/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rushabhshah5216)
+[![Facebbook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=Facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/profile.php?id=100017719209852)
 
-<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rushabh-shah-83907a1a0/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rushabhshah5216) -->
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -37,5 +34,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
 
-<!--Profile trophy-->
-[![trophy](https://github-profile-trophy.vercel.app/?Rushabh2609=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<!--Profile trophy
+[![trophy](https://github-profile-trophy.vercel.app/?Rushabh2609=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)-->
