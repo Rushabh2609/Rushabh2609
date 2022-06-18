@@ -30,7 +30,11 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rushabhshah5216)
 [![Facebbook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=Facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/profile.php?id=100017719209852)
 
+[![trophy](https://github-profile-trophy.vercel.app/?Rushabh2609=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
