@@ -4,11 +4,11 @@
 <h3>I’m currently pursuing in M.tech CyberSecurity from National Forensic Sciences University</h3>
  
 <h3>Cyber Security Enthusiatic!</h3>  
-
+<h3>Profile Visitor:</h3> 
 <!-- retro visitor counter -->  
-<p align="center">   
+<!-- <p align="center">    -->
   <img src="https://profile-counter.glitch.me/Rushabh2609/count.svg" />  
-</p>  
+<!-- </p>   -->
 
 <h3>🔧 Technologies & Tools:</h3>
 
@@ -51,8 +51,8 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<h3>Meme:</h3>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<!-- <h3>Meme:</h3>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -60,5 +60,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
 
-<!--Profile trophy
-[![trophy](https://github-profile-trophy.vercel.app/?Rushabh2609=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)-->
+<!-- Profile trophy
+[![trophy](https://github-profile-trophy.vercel.app/?Rushabh2609=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
