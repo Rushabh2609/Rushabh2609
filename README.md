@@ -46,16 +46,16 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
 
-<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)] -->
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/rushabh-shah-83907a1a0/)
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)] -->
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)(https://twitter.com/rushabhshah5216)
-<!-- [![Facebbook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=Facebook&logoColor=white&color=0D76A8)] -->
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)(https://www.facebook.com/profile.php?id=100017719209852)
-<!-- [![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=Discord&logoColor=white&color=0D76A8)] -->
-![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)(https://discord.com/channels/@me)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)(https://www.reddit.com/user/MeasurementWorth4218)
-![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)(https://www.twitch.tv/settings/profile)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rushabh-shah-83907a1a0/)
+<!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rushabhshah5216)
+<!-- ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) -->
+[![Facebbook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=Facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/profile.php?id=100017719209852)
+<!-- ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) -->
+[![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=Discord&logoColor=white&color=0D76A8)](https://discord.com/channels/@me)
+<!-- ![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) -->
+<!-- ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)(https://www.reddit.com/user/MeasurementWorth4218) -->
+<!-- ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)(https://www.twitch.tv/settings/profile) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?Rushabh2609=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
 
