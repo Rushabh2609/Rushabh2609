@@ -50,8 +50,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rushabhshah5216)
 [![Facebbook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=Facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/profile.php?id=100017719209852)
 [![Discord Badge](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=Discord&logoColor=white&color=0D76A8)](https://discord.com/channels/@me)
-<!-- ![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)(https://www.reddit.com/user/MeasurementWorth4218)
-![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)(https://www.twitch.tv/settings/profile/) -->
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/MeasurementWorth4218)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/settings/profile/)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?Rushabh2609=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
 
